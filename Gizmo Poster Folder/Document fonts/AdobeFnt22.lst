@@ -1,0 +1,76 @@
+%!Adobe-FontList 1.22
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:InterV
+FamilyName:Inter V
+StyleName:Regular
+FullName:Inter V
+MenuName:Inter V
+FamilyPrefix:InterV
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\MaxLM\OneDrive\Documents\University\DE2\Gizmo\Gizmo Poster Folder\Document fonts\Inter-V.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:777724
+FileModTime:1606928607
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Inter V
+NameArray:0,Win,1,Inter V
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\MaxLM\OneDrive\Documents\University\DE2\Gizmo\Gizmo Poster Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1636490654
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\MaxLM\OneDrive\Documents\University\DE2\Gizmo\Gizmo Poster Folder\Document fonts\times.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1196984
+FileModTime:1622891106
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
